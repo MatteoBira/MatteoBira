@@ -7,7 +7,7 @@ Python, html, css and js
 
 🧠 I'm currently learning Django, TS, tailwind and vim
 
-👯‍♀️ I'm looking to collaborate on Ansible
+👯‍♀️ I'm trying to collaborate on Ansible
 
 🤔 I'm looking for help with Django (Django REST), neovim configurations
 
