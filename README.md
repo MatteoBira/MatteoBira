@@ -1,7 +1,7 @@
 ##  About Me
 full stack developer
 ## 🛠 Skills
-Python, html, css and js
+Python, html, css, js and MySQL
 ## Status
 👩‍💻 I'm currently working on a news web app 
 
