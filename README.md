@@ -1,5 +1,6 @@
 ##  About Me
-full stack developer
+Hy, I'm Matteo Birarelli, and I'm delighted to welcome you to my GitHub profile.
+As a Fullstack Developer, I am dedicated to creating digital solutions that are both impactful and efficient.
 ## 🛠 Skills
 Python, html, css, js and MySQL
 ## Status
