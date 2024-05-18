@@ -1,8 +1,8 @@
 ##  About Me
 Hy, I'm Matteo Birarelli
 ## 🛠 Skills
-Python, C, C++, Golang, html, css, js, MySQL
+C, Python, C++, js, Golang, html, css, MySQL
 ## Frameworks
-Htmx, django 
+Htmx, django, svelte
 
 
